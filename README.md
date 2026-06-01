@@ -6,7 +6,7 @@ This is a **responsive front-end clone** of the Netflix landing page built using
 
 ## 🌐 Live Preview
 
-👉 [Click to view live](https://netflix-clone-five-plum.vercel.app/)
+👉 [Click to view live](https://netflix-clone-flax-seven-30.vercel.app/)
 
 ---
 
